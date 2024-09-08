@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Associate Technical Architect | Full-Stack Developer | Cloud Enthusiast | Open Source Contributor
 
-I am an Associate Full-Stack Developer with a passion for building scalable web applications and integrating cloud technologies. I specialize in PHP, Laravel, Vue.js, and have experience with cloud platforms like AWS. Currently, I am diving deep into **Azure DevOps** and **Docker** to enhance my cloud skills.
+I am an Associate Technical Architect with a passion for building scalable web applications and integrating cloud technologies. I specialize in PHP, Laravel, Vue.js, and have experience with cloud platforms like AWS. Currently, I am diving deep into **Azure DevOps** and **Docker** to enhance my cloud skills.
 
 ### 🚀 Skills
 - **Backend:** PHP, Laravel, RESTful APIs
